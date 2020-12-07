@@ -8,10 +8,15 @@ Somos uma empresa de automação, nosso sistema é feito para todo controle da s
 atendemos da mesma forma, com cadastro de produtos, clientes, trocas de emitentes relatorios etc.
 
 ### Telas do projeto
-- Login
+### - Login
+
 ![](https://github.com/GuiBarrosFACENS/ProjetoCTG/blob/main/loginATUAL.png)
--Modulo
+
+### -Modulo
+
 ![](https://github.com/GuiBarrosFACENS/ProjetoCTG/blob/main/framemodulo.png)
--Escolha
+
+### -Escolha
+
 ![](https://github.com/GuiBarrosFACENS/ProjetoCTG/blob/main/frameescolha.png)
 
