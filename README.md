@@ -20,3 +20,10 @@ atendemos da mesma forma, com cadastro de produtos, clientes, trocas de emitente
 
 ![](https://github.com/GuiBarrosFACENS/ProjetoCTG/blob/main/frameescolha.png)
 
+### -Pesquisa Clientes
+
+![](https://github.com/GuiBarrosFACENS/ProjetoCTG/blob/main/framecadastrocliente.png)
+
+### -Cadastro Clientes
+
+![](https://github.com/GuiBarrosFACENS/ProjetoCTG/blob/main/framecadastrocliente.png)
