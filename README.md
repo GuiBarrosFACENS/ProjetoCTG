@@ -32,3 +32,8 @@ atendemos da mesma forma, com cadastro de produtos, clientes, trocas de emitente
 ### -Planejamento equipe ctgsystems
 
 ![](https://github.com/GuiBarrosFACENS/ProjetoCTG/blob/main/trello.png)
+
+### - Diagrama + DER
+
+![](https://github.com/GuiBarrosFACENS/ProjetoCTG/blob/main/diagrama.png)
+
